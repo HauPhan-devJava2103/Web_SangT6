@@ -1,5 +1,0 @@
-package vn.phuchau.controller.user;
-
-public class VideoController {
-
-}
